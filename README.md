@@ -1,8 +1,5 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
+```markdown
 # To-Do List Application
 
 A simple and intuitive **To-Do List** application built with **React**. This project helps users manage their tasks effectively by providing functionalities to add, remove, mark tasks as completed, and sort tasks.
@@ -29,3 +26,5 @@ A simple and intuitive **To-Do List** application built with **React**. This pro
 
 ## Author
 Developed by Pavlo Antokhiv (https://github.com/pavlo1377).
+```
+
